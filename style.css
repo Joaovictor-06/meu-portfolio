@@ -21,7 +21,7 @@ img {
 }
 
 a {
-    color:#e6e8ee
+    color:#e6e8ee;
 }
 
 section {
@@ -30,4 +30,12 @@ section {
 
 header {
     border-bottom: 1px solid;
+}
+
+nav ul {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
